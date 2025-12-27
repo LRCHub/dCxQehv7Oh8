@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "冬のトライアングル",
+  "base_artist": "Onephony",
+  "createdAt": "2025-12-27T12:20:46.390800Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "冬のトライアングル",
+      "artist": "Onephony",
+      "has_synced": false,
+      "path": "select/pl_01_冬のトライアングル_Onephony.txt"
+    }
+  ]
+}
